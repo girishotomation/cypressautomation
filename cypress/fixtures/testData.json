@@ -1,0 +1,10 @@
+{
+  "url":"https://staging.mercuryfinancialcloud.com/cards/#/",
+  "username": "garrycard",
+  "password": "Happy@123",  
+  "paymentAmount":"1.23",
+  "verificationText1":"Important Notice",
+  "verificationText2":"Verify Payment Details",
+  "verificationText3":"Payment confirmation sent successfully.",
+  "verificationText4":"Scheduled Payments"  
+}
